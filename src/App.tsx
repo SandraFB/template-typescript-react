@@ -8,16 +8,24 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Taller de Sistemas Operativos.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://www.itq.edu.mx/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          TECNM Campus Querétaro
         </a>
+        <p>
+          Integrantes de la clase:
+        </p>
+        <p>
+        Sandra, Eric Ibanez,César, Emilio, Miguel, Jocelyn, 
+          Emmanuel Lira, Armando, Gerardo, Julio, Nuria, Emmanuel Morales,
+          Kenet, Larissa, Omar, Marijo, victor, lupita
+        </p>
       </header>
     </div>
   );
